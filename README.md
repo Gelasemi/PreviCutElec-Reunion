@@ -12,7 +12,7 @@ Dashboard interactif basé sur Streamlit et TensorFlow pour prédire les coupure
 ## Lancement local
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run Elecapp.py
 ```
 
 ## Déploiement
